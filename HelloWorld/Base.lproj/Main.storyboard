@@ -29,11 +29,10 @@
                                     <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="250" id="HmD-dE-W0x"/>
                                     <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="50" id="tfF-Ln-bC0"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <color key="tintColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" title="Show text">
-                                    <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
-                                </buttonConfiguration>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                <state key="normal" title="Show text"/>
                                 <connections>
                                     <action selector="makeButtonAction" destination="BYZ-38-t0r" eventType="touchUpInside" id="Tx2-6K-UnK"/>
                                 </connections>

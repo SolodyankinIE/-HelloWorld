@@ -17,6 +17,7 @@ class ViewController: UIViewController {
         
         helloWorldLabel.isHidden = true
         toggleButton.layer.cornerRadius = 10
+        
         // Do any additional setup after loading the view.
     }
 
